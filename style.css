@@ -1,0 +1,27 @@
+
+.container{
+    margin-bottom: 100px;
+}
+.bg-costom{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 10px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.game:hover{
+    color: #FF136F;
+
+}
+.cat-1{
+    background-color: orange;
+}
+.cat-2{
+    background-color: orchid;
+}
+.cat-3{
+    background-color: blue;
+}
